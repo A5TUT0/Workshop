@@ -1,0 +1,20 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Node
+node_modules/
+
+# Dist / build outputs
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# Env
+.env
+
+# Docker
+docker/*.env
